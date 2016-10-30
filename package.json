@@ -1,6 +1,6 @@
 {
   "name": "easy-wkhtmltoimage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple wrapper for the wkhtmltoimage command line tool.",
   "main": "./WkHtmlToImage.js",
   "files": [
@@ -20,7 +20,7 @@
  },
  "repository": {
     "type": "git",
-    "url": "https://github.com/timstudd/node-wkhtmltoimage.git"
+    "url": "https://github.com/uschmann/easy-wkhtmltoimage.git"
   },
   "author": "Andre Uschmann",
   "license": "MIT",
