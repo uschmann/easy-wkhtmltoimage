@@ -1,0 +1,31 @@
+{
+  "name": "easy-wkhtmltoimage",
+  "version": "1.0.0",
+  "description": "A simple wrapper for the wkhtmltoimage command line tool.",
+  "main": "./WkHtmlToImage.js",
+  "files": [
+    "WkHtmlToImage.js"
+  ],
+  "scripts": {
+    "test": "jest --no-cache"
+  },
+  "keywords": [
+    "wkhtmltoimage",
+    "wkhtml",
+    "screenshot",
+    "website"
+  ],
+  "jest": {
+   "verbose": true
+ },
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/timstudd/node-wkhtmltoimage.git"
+  },
+  "author": "Andre Uschmann",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^16.0.2"
+  },
+  "dependencies": {}
+}
