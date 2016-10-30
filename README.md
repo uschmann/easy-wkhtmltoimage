@@ -1,5 +1,7 @@
 # easy-wkhtmltoimage
 
+[![Build Status](https://travis-ci.org/uschmann/easy-wkhtmltoimage.svg?branch=master)](https://travis-ci.org/uschmann/easy-wkhtmltoimage)
+
 ## Installation
 ```bash
 $ npm install easy-wkhtmltoimage
